@@ -1,0 +1,8 @@
+/analysis/*
+!/analysis/*.py
+
+
+/figs/*
+/prev/*
+/video/*
+Tap_Pattern*.pdf
